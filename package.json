@@ -298,7 +298,7 @@
     "chai": "^4.2.0",
     "examples-generator": "file:submodules/examples-generator",
     "glob": "^7.1.4",
-    "husky": "^3.0.1",
+    "husky": "^3.0.4",
     "lint-staged": "^9.2.1",
     "mocha": "^6.2.0",
     "nyc": "^14.1.1",
